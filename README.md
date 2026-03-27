@@ -1,7 +1,7 @@
+# Laravel DevContainer Starter (VSCode + Docker + xDebug)
 
-# Laravel Docker + Xdebug
-
-A boilerplate setup to run a Laravel application using Docker, with Xdebug enabled for local PHP debugging.
+A ready-to-use Laravel development environment using DevContainers, Docker, and VS Code.
+Includes Xdebug, Composer, Node, and MySQL.
 
 ## 📦 Features
 
@@ -18,8 +18,7 @@ Before you get started, you’ll need:
 - Docker (Engine) installed  
 - Docker Compose installed  
 - Git  
-- VSCode + [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) (you can try another editor / IDE, but this is the one I used for develop and test it)
-- It was tested only in Linux, but I believe it will works fine in Windows too
+- VSCode + [Dev Containers extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 
 ## 🏗️ Setup & Installation
 If you with, you can start a Laravel application in the way you think is better and just copy containers files to your repository, but if you want to use the Laravel application in this repository, here is the step-by-step:
